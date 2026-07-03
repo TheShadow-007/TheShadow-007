@@ -14,9 +14,6 @@ I am **Sujal Patel**, a **Computer Science student** with a strong academic and 
 My learning approach emphasizes **deep system understanding**, **performance analysis**, and **clean, reproducible implementations**.  
 I actively build projects that bridge **theory and real-world execution**, aligning with research-oriented postgraduate study.
 
-🎓 **Career Objective**  
-> To pursue **MTech / MS abroad** with a focus on **advanced computing systems, backend engineering, and applied data research**.
-
 ---
 
 ## 🧠 CORE ACADEMIC INTERESTS
@@ -96,15 +93,14 @@ I actively build projects that bridge **theory and real-world execution**, align
 
 ---
 
-## 📄 RESUME & PROFESSIONAL LINKS
+## 📄PROFESSIONAL LINKS
 
 <!--📌 **Resume (PDF):**  
 ➡️ *Upload your resume to a GitHub repo and paste the link here*  
 `https://github.com/USERNAME/Resume/blob/main/Sujal_Patel_Resume.pdf`
 -->
-<!--🌐 **LinkedIn:**  
-➡️ https://www.linkedin.com/
--->
+🌐 **LinkedIn:**  
+➡️ [https://www.linkedin.com/](https://www.linkedin.com/in/sujal-patel-ab042b298/)
 📧 **Email:** patelsujal7405@gmail.com
 
 ---
@@ -118,10 +114,5 @@ I actively build projects that bridge **theory and real-world execution**, align
 > “Measure first. Optimize later. Understand always.”
 
 ---
-
-## ⭐ FINAL NOTE
-
-This GitHub profile is maintained as a **technical portfolio for academic review**,  
-showcasing **systems thinking, backend development, and data analysis skills** relevant to **MTech / MS programs**.
 
 
